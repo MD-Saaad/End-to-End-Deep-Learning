@@ -1,0 +1,21 @@
+bentoml
+torchvision 
+joblib
+tqdm     # for the progress bar 
+pip-chill     # for matching the version and libraries pf the pyhton and other 
+wincertstore  # for the ssh 
+dvc
+mlflow
+ipykernel
+numpy
+pandas
+seaborn
+
+
+pytest  # for linting for checking hte intendentation of variable 
+tox      # for checking the test cases 
+flake8
+mypy
+black
+
+#-e .
